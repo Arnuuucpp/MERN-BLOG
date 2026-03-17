@@ -61,3 +61,12 @@ article:hover {
     grid-auto-flow: column;
     gap: 4px; /* Space between squares */
 }
+
+#feed-container article {
+    transition: transform 0.3s ease, padding-left 0.3s ease;
+}
+
+#feed-container article:hover {
+    transform: translateX(5px);
+    border-left-color: #3b82f6;
+}
