@@ -3,8 +3,15 @@ const monthLabels = document.getElementById('month-labels');
 const streakDisplay = document.getElementById('streak-count');
 const feedContainer = document.getElementById('feed-container');
 
-// --- 1. YOUR DATA (ADD NEW POSTS HERE AT THE TOP) ---
+
 const posts = [
+    {
+        date: "MARCH 18, 2026",
+        day: "03`",
+        title: "GRIND DAY : 03",
+        learned: "VERSION CONTROL",
+        mistakes: "SLEPT ON THE KEYBOARD AND LOST 2-3 HOURS OF WORK. ALWAYS COMMIT OFTEN!"
+    },
     {
         date: "MARCH 17, 2026",
         day: "02",

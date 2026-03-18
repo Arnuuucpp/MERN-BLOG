@@ -36,7 +36,7 @@ article:hover {
     padding-left: 2px;
 }
 
-/* Optional: Add a subtle glow to the whole container */
+/* Add a subtle glow to the whole container */
 .calendar-container:hover {
     border-color: rgba(255, 255, 255, 0.2);
 }
