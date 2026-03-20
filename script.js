@@ -6,6 +6,13 @@ const feedContainer = document.getElementById('feed-container');
 
 const posts = [
     {
+        date: "MARCH 20, 2026",
+        day: "05`",
+        title: "GRIND DAY : 04",
+        learned: "made 2 css webpages(revising)",
+        mistakes: "just pure focus, 1-1.5  distracted hours but overall a good day."
+    },
+    {
         date: "MARCH 19, 2026",
         day: "04`",
         title: "GRIND DAY : 04",
