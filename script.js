@@ -6,22 +6,29 @@ const feedContainer = document.getElementById('feed-container');
 
 const posts = [
     {
+        date: "MARCH 21, 2026",
+        day: "06",
+        title: "GRIND DAY : 06",
+        learned: "starting with scss",
+        mistakes: "distracted today"
+    },
+    {
         date: "MARCH 20, 2026",
-        day: "05`",
-        title: "GRIND DAY : 04",
+        day: "05",
+        title: "GRIND DAY : 05",
         learned: "made 2 css webpages(revising)",
         mistakes: "just pure focus, 1-1.5  distracted hours but overall a good day."
     },
     {
         date: "MARCH 19, 2026",
-        day: "04`",
+        day: "04",
         title: "GRIND DAY : 04",
         learned: "Revising css by building ",
         mistakes: "was busy with some work"
     },
     {
         date: "MARCH 18, 2026",
-        day: "03`",
+        day: "03",
         title: "GRIND DAY : 03",
         learned: "VERSION CONTROL",
         mistakes: "SLEPT ON THE KEYBOARD AND LOST 2-3 HOURS OF WORK. ALWAYS COMMIT OFTEN!"
