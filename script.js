@@ -6,6 +6,20 @@ const feedContainer = document.getElementById('feed-container');
 
 const posts = [
     {
+        date: "MARCH 25, 2026",
+        day: "10",
+        title: "GRIND DAY : 10",
+        learned: "didnt studied much",
+        mistakes: "null"
+    },
+    {
+        date: "MARCH 24, 2026",
+        day: "09",
+        title: "GRIND DAY : 09",
+        learned: "watched only 1 lec",
+        mistakes: "tired cuz of college , need to sleep early"
+    },
+    {
         date: "MARCH 23, 2026",
         day: "08",
         title: "GRIND DAY : 08",
